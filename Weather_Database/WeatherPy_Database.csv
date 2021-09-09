@@ -1,0 +1,680 @@
+City_ID,City,Country,Lat,Lng,Max Temp,Humidity,Cloudiness,Wind Speed,Current Description
+0,Dikson,RU,73.5069,80.5464,41.72,88,74,13.44,broken clouds
+1,Kodiak,US,57.79,-152.4072,51.31,93,90,18.41,light rain
+2,Chuy,UY,-33.6971,-53.4616,53.65,92,73,12.84,broken clouds
+3,Butaritari,KI,3.0707,172.7902,83.61,72,9,14.56,light rain
+4,Abu Zabad,SD,12.35,29.25,73.15,81,86,9.55,overcast clouds
+5,Thompson,CA,55.7435,-97.8558,50.43,86,96,4.12,overcast clouds
+6,Victoria,HK,22.2855,114.1577,91.45,72,12,4.0,few clouds
+7,Port Lincoln,AU,-34.7333,135.8667,71.47,31,3,25.77,clear sky
+8,Marawi,PH,7.9986,124.2928,76.64,82,100,6.11,overcast clouds
+9,Mar Del Plata,AR,-38.0023,-57.5575,51.82,100,90,32.21,moderate rain
+10,Avarua,CK,-21.2078,-159.775,75.25,83,40,13.8,scattered clouds
+11,Qaanaaq,GL,77.484,-69.3632,14.63,62,50,8.5,scattered clouds
+12,Rikitea,PF,-23.1203,-134.9692,74.19,79,46,17.67,light rain
+13,Souillac,MU,-20.5167,57.5167,72.36,74,12,12.84,few clouds
+14,Osakarovka,KZ,50.565,72.5692,54.41,36,2,13.04,clear sky
+15,Sangin,AF,32.0728,64.8359,90.54,10,0,3.47,clear sky
+16,Ketchikan,US,55.3422,-131.6461,52.27,100,75,3.44,broken clouds
+17,Mahebourg,MU,-20.4081,57.7,72.25,74,11,14.09,few clouds
+18,Port Elizabeth,ZA,-33.918,25.5701,54.52,81,96,4.7,overcast clouds
+19,Puerto Ayora,EC,-0.7393,-90.3518,67.55,96,97,8.01,overcast clouds
+20,Punta Arenas,CL,-53.15,-70.9167,39.31,75,20,12.66,few clouds
+21,Winslow,US,35.0242,-110.6974,78.98,46,1,1.01,clear sky
+22,Hermanus,ZA,-34.4187,19.2345,51.91,83,98,14.74,overcast clouds
+23,Inongo,CD,-1.95,18.2667,68.11,95,48,3.49,scattered clouds
+24,Yellowknife,CA,62.456,-114.3525,52.32,100,90,9.22,light rain
+25,Brunico,IT,46.7958,11.9364,56.95,96,27,1.39,scattered clouds
+26,Sabang,ID,5.8933,95.3214,81.03,77,100,22.15,light rain
+27,Shimoda,JP,34.6667,138.95,77.11,95,100,6.15,overcast clouds
+28,Clyde River,CA,70.4692,-68.5914,29.53,69,47,9.57,scattered clouds
+29,Malanje,AO,-9.5402,16.341,66.72,89,17,3.36,few clouds
+30,Vaini,TO,-21.2,-175.2,69.96,94,90,11.5,light rain
+31,Ushuaia,AR,-54.8,-68.3,40.66,87,20,6.91,few clouds
+32,Saint-Philippe,RE,-21.3585,55.7679,75.22,69,35,8.63,scattered clouds
+33,Bredasdorp,ZA,-34.5322,20.0403,45.36,88,91,6.29,overcast clouds
+34,Maceio,BR,-9.6658,-35.7353,72.84,100,20,2.3,few clouds
+35,Barrow,US,71.2906,-156.7887,39.22,87,1,4.61,clear sky
+36,Los Reyes,MX,19.35,-98.9667,58.75,94,90,5.75,light rain
+37,Bethel,US,41.3712,-73.414,75.56,85,75,4.61,broken clouds
+38,Bluff,NZ,-46.6,168.3333,54.81,67,100,34.14,light rain
+39,Shache,CN,38.4167,77.2406,88.09,11,0,2.64,clear sky
+40,Port Alfred,ZA,-33.5906,26.891,57.76,77,93,3.47,overcast clouds
+41,Dingle,PH,10.9995,122.6711,84.69,76,100,12.41,overcast clouds
+42,Sioux Lookout,CA,50.1001,-91.917,49.87,99,64,4.25,broken clouds
+43,Pandan,PH,14.0453,124.1694,85.91,70,100,8.57,overcast clouds
+44,Bay Roberts,CA,47.5999,-53.2648,59.5,95,4,2.21,clear sky
+45,Ribeira Grande,PT,38.5167,-28.7,71.96,87,67,9.35,broken clouds
+46,Novooleksiyivka,UA,46.2269,34.6428,63.19,48,0,10.63,clear sky
+47,Arraial Do Cabo,BR,-22.9661,-42.0278,70.72,87,41,30.11,scattered clouds
+48,Mehamn,NO,71.0357,27.8492,42.98,96,92,15.52,light rain
+49,Banda Aceh,ID,5.5577,95.3222,84.76,62,100,14.03,light rain
+50,Chokurdakh,RU,70.6333,147.9167,36.79,65,100,9.84,overcast clouds
+51,Nanortalik,GL,60.1432,-45.2371,43.12,96,16,9.04,few clouds
+52,Husavik,IS,66.0449,-17.3389,45.07,72,1,8.97,clear sky
+53,Saint Anthony,US,45.0205,-93.218,62.31,82,1,4.61,clear sky
+54,Longyearbyen,SJ,78.2186,15.6401,35.44,80,75,5.75,broken clouds
+55,Port-Gentil,GA,-0.7193,8.7815,76.5,83,91,13.0,overcast clouds
+56,Hovd,MN,48.0056,91.6419,75.92,17,18,8.59,few clouds
+57,Vadso,NO,70.0744,29.7487,43.68,75,40,8.05,scattered clouds
+58,Hami,CN,42.8,93.45,88.48,10,0,2.68,clear sky
+59,Hualmay,PE,-11.0964,-77.6139,61.16,88,77,7.02,broken clouds
+60,Puerto Escondido,MX,15.85,-97.0667,79.79,86,100,4.85,overcast clouds
+61,Merauke,ID,-8.4667,140.3333,81.41,73,89,20.15,overcast clouds
+62,Narsaq,GL,60.9167,-46.05,41.22,82,17,2.55,few clouds
+63,Jamestown,US,42.097,-79.2353,62.19,94,1,1.99,clear sky
+64,Nome,US,64.5011,-165.4064,51.17,94,100,8.61,light rain
+65,Kupang,ID,-10.1667,123.5833,91.98,40,20,26.46,few clouds
+66,Busselton,AU,-33.65,115.3333,56.05,87,100,4.14,overcast clouds
+67,Bengkulu,ID,-3.8004,102.2655,82.45,72,42,10.04,scattered clouds
+68,Bambous Virieux,MU,-20.3428,57.7575,72.21,74,15,13.91,few clouds
+69,Central Point,US,42.376,-122.9164,75.25,46,24,0.94,few clouds
+70,Hobart,AU,-42.8794,147.3294,51.66,84,75,1.01,light rain
+71,Port Hardy,CA,50.6996,-127.4199,54.0,98,100,4.59,heavy intensity rain
+72,Georgetown,MY,5.4112,100.3354,84.13,77,20,1.99,few clouds
+73,New Norfolk,AU,-42.7826,147.0587,51.3,74,100,5.01,light rain
+74,Sri Aman,MY,1.2376,111.4621,91.11,51,53,2.89,light rain
+75,Albany,US,42.6001,-73.9662,66.31,95,100,3.02,heavy intensity rain
+76,Baillif,GP,16.0202,-61.7463,76.5,79,99,9.98,overcast clouds
+77,Ilhabela,BR,-23.7781,-45.3581,70.61,93,82,3.83,broken clouds
+78,Cape Town,ZA,-33.9258,18.4232,52.12,72,100,6.06,overcast clouds
+79,Matola,MZ,-25.9622,32.4589,62.51,88,1,3.04,clear sky
+80,Kapaa,US,22.0752,-159.319,82.38,71,75,5.01,broken clouds
+81,Kempsey,AU,-31.0833,152.8333,79.03,35,8,7.56,clear sky
+82,Saint George,US,37.1041,-113.5841,86.79,17,1,3.0,clear sky
+83,Kahului,US,20.8947,-156.47,78.82,75,40,14.97,scattered clouds
+84,El Alto,PE,-4.2714,-81.2147,63.75,79,94,17.9,overcast clouds
+85,Mataura,NZ,-46.1927,168.8643,54.48,60,100,15.26,overcast clouds
+86,Diego De Almagro,CL,-26.3667,-70.05,58.3,26,0,0.38,clear sky
+87,Jacksonville,US,30.3322,-81.6556,77.04,90,75,3.0,mist
+88,Williamsburg,US,37.2707,-76.7075,75.76,91,1,4.61,clear sky
+89,Orlik,RU,52.5178,99.825,58.95,48,75,1.28,broken clouds
+90,Margate,GB,51.3813,1.3862,62.89,94,100,9.91,overcast clouds
+91,Lebu,CL,-37.6167,-73.65,49.01,86,100,14.16,overcast clouds
+92,Thunder Bay,CA,48.4001,-89.3168,55.99,81,55,6.4,broken clouds
+93,Kaitangata,NZ,-46.2817,169.8464,56.32,52,99,23.69,overcast clouds
+94,Ancud,CL,-41.8697,-73.8203,49.53,89,100,6.6,overcast clouds
+95,Ikom,NG,5.9667,8.7063,73.9,99,100,1.61,light rain
+96,Cambui,BR,-22.6122,-46.0575,70.54,47,85,2.35,overcast clouds
+97,Ovsyanka,RU,55.9575,92.5519,56.37,81,63,8.46,light rain
+98,Srivardhan,IN,18.0333,73.0167,81.45,86,100,16.31,overcast clouds
+99,East London,ZA,-33.0153,27.9116,58.5,63,64,4.7,broken clouds
+100,Hilo,US,19.7297,-155.09,78.53,77,20,5.75,light rain
+101,Cockburn Town,TC,21.4612,-71.1419,82.27,71,3,8.75,clear sky
+102,Kjollefjord,NO,70.9457,27.3465,42.85,94,97,17.6,light rain
+103,Luderitz,NA,-26.6481,15.1594,55.58,67,1,7.05,clear sky
+104,Sao Gabriel Da Cachoeira,BR,-0.1303,-67.0892,71.58,98,96,1.23,overcast clouds
+105,Severo-Kurilsk,RU,50.6789,156.125,57.58,87,100,13.24,overcast clouds
+106,Yilan,TW,24.757,121.753,95.11,55,36,9.01,scattered clouds
+107,Lieksa,FI,63.3167,30.0167,49.21,78,11,9.44,few clouds
+108,Oranjemund,NA,-28.55,16.4333,64.71,25,1,7.29,clear sky
+109,Saldanha,ZA,-33.0117,17.9442,55.58,58,99,9.51,overcast clouds
+110,Te Anau,NZ,-45.4167,167.7167,48.83,88,100,12.8,light rain
+111,Tuktoyaktuk,CA,69.4541,-133.0374,49.75,69,66,9.71,broken clouds
+112,Sisimiut,GL,66.9395,-53.6735,34.65,65,25,12.48,scattered clouds
+113,Iranshahr,IR,27.2025,60.6848,96.57,11,99,2.82,overcast clouds
+114,Aswan,EG,24.0934,32.907,90.23,20,5,13.76,clear sky
+115,Saskylakh,RU,71.9167,114.0833,55.54,43,100,13.18,overcast clouds
+116,Sitka,US,57.0531,-135.33,57.09,77,90,4.61,mist
+117,Cravo Norte,CO,6.3017,-70.2041,74.86,85,52,3.89,broken clouds
+118,Hasaki,JP,35.7333,140.8333,71.89,95,100,3.11,overcast clouds
+119,Leshukonskoye,RU,64.8989,45.7622,42.31,90,100,11.18,overcast clouds
+120,Guerrero Negro,MX,27.9769,-114.0611,72.37,84,79,13.09,broken clouds
+121,Matagami,CA,49.7502,-77.6328,53.69,98,99,7.07,overcast clouds
+122,Haflong,IN,25.1833,93.0333,87.85,57,100,2.98,overcast clouds
+123,Talnakh,RU,69.4865,88.3972,48.04,96,100,3.87,light rain
+124,Owasso,US,36.2695,-95.8547,71.51,64,1,3.44,clear sky
+125,Ayan,RU,56.45,138.1667,55.72,84,100,7.0,light rain
+126,Zhigansk,RU,66.7697,123.3711,53.94,55,44,2.28,scattered clouds
+127,Namibe,AO,-15.1961,12.1522,64.27,93,0,1.36,clear sky
+128,Ambon,ID,-3.6954,128.1814,82.54,83,75,9.22,broken clouds
+129,Sergeyevka,KZ,53.88,67.4158,54.0,52,88,13.42,overcast clouds
+130,Esperance,AU,-33.8667,121.9,64.63,76,99,14.43,overcast clouds
+131,Zubtsov,RU,56.1753,34.5894,55.0,88,63,10.65,broken clouds
+132,Zabol,AF,32.25,67.25,79.59,23,0,2.24,clear sky
+133,Bathsheba,BB,13.2167,-59.5167,83.01,78,20,16.11,few clouds
+134,Cherskiy,RU,68.75,161.3,36.48,79,98,19.89,overcast clouds
+135,Kropotkin,RU,45.4375,40.5756,59.41,68,0,12.86,clear sky
+136,Castro,BR,-24.7911,-50.0119,61.09,92,99,5.21,overcast clouds
+137,Provideniya,RU,64.3833,-173.3,48.31,87,90,13.42,light rain
+138,Changde,CN,29.0464,111.6783,84.92,58,19,2.26,few clouds
+139,Tuatapere,NZ,-46.1333,167.6833,54.82,74,100,16.64,light rain
+140,Stadskanaal,NL,52.9833,6.95,58.95,85,24,6.69,few clouds
+141,Torbay,CA,47.6666,-52.7314,58.75,91,4,1.99,clear sky
+142,Labuhan,ID,-6.8844,112.2051,87.82,52,49,6.87,scattered clouds
+143,Fairbanks,US,64.8378,-147.7164,57.09,78,1,0.0,clear sky
+144,Maningrida,AU,-12.0667,134.2667,87.82,48,50,17.43,scattered clouds
+145,Sibolga,ID,1.7427,98.7792,83.23,65,93,4.45,overcast clouds
+146,Narayanpet,IN,16.7333,77.5,78.13,74,99,14.94,overcast clouds
+147,Waipawa,NZ,-41.4122,175.5153,56.03,67,11,20.92,few clouds
+148,Wuzhou,CN,23.4833,111.3167,91.78,55,20,3.29,few clouds
+149,Marquette,US,46.5333,-87.6335,52.77,91,24,5.1,few clouds
+150,Nantucket,US,41.2835,-70.0995,73.99,86,76,17.16,broken clouds
+151,Trincomalee,LK,8.5711,81.2335,88.97,55,89,11.7,overcast clouds
+152,Los Llanos De Aridane,ES,28.6585,-17.9182,73.15,73,90,11.5,overcast clouds
+153,Parintins,BR,-2.6283,-56.7358,73.62,90,53,2.75,broken clouds
+154,Abapo,BO,-18.8333,-63.4667,56.86,69,100,4.81,overcast clouds
+155,Kruisfontein,ZA,-34.0033,24.7314,49.32,87,100,5.61,overcast clouds
+156,Ilulissat,GL,69.2167,-51.1,30.22,86,40,8.05,scattered clouds
+157,Yar-Sale,RU,66.8333,70.8333,46.51,63,69,12.82,broken clouds
+158,Dunkwa,GH,5.9656,-1.78,71.49,99,61,1.92,broken clouds
+159,Badacsonytomaj,HU,46.8071,17.5138,58.78,52,8,4.79,clear sky
+160,Lata,PT,40.1629,-8.3327,66.92,98,59,2.01,broken clouds
+161,Chernyshevskiy,RU,63.0128,112.4714,63.41,49,4,5.79,clear sky
+162,Quatre Cocos,MU,-20.2078,57.7625,71.1,74,17,13.91,few clouds
+163,Blagoyevo,RU,63.3667,47.9167,48.61,94,100,11.83,overcast clouds
+164,Kieta,PG,-6.2167,155.6333,82.58,76,64,8.01,moderate rain
+165,Noumea,NC,-22.2763,166.4572,73.38,68,85,16.91,overcast clouds
+166,Tasiilaq,GL,65.6145,-37.6368,42.96,52,88,7.58,overcast clouds
+167,Carnarvon,AU,-24.8667,113.6333,76.3,40,0,9.46,clear sky
+168,Coquimbo,CL,-29.9533,-71.3436,51.53,76,0,4.61,clear sky
+169,Port Blair,IN,11.6667,92.75,80.64,89,90,9.22,overcast clouds
+170,Westport,US,41.1415,-73.3579,76.19,91,90,1.01,overcast clouds
+171,Nikolskoye,RU,59.7035,30.7861,58.89,88,87,9.19,overcast clouds
+172,Mayya,RU,61.7333,130.2811,60.12,27,48,5.48,scattered clouds
+173,Makakilo City,US,21.3469,-158.0858,79.12,62,1,6.91,clear sky
+174,Avera,US,33.194,-82.5271,73.27,84,100,8.75,moderate rain
+175,Walvis Bay,NA,-22.9575,14.5053,54.09,95,65,2.75,broken clouds
+176,Karratha,AU,-20.7377,116.8463,88.12,19,0,10.04,clear sky
+177,Quelimane,MZ,-17.8786,36.8883,74.86,71,0,0.69,clear sky
+178,Bandarbeyla,SO,9.4942,50.8122,82.63,52,99,28.9,overcast clouds
+179,Vila Velha,BR,-20.3297,-40.2925,71.55,83,75,10.36,broken clouds
+180,Machico,PT,32.7,-16.7667,74.03,84,20,8.05,few clouds
+181,Itarantim,BR,-15.6597,-40.0656,64.13,98,8,0.96,clear sky
+182,Taft,IR,31.7471,54.2088,73.35,29,0,9.22,clear sky
+183,Menongue,AO,-14.6585,17.691,59.76,31,52,4.76,broken clouds
+184,Norman Wells,CA,65.282,-126.8329,51.01,79,28,6.82,scattered clouds
+185,Kohat,PK,33.582,71.4493,78.87,65,78,4.79,broken clouds
+186,Comodoro Rivadavia,AR,-45.8667,-67.5,57.06,58,0,14.97,clear sky
+187,Okhotsk,RU,59.3833,143.3,55.31,66,92,10.65,overcast clouds
+188,Teguldet,RU,57.3064,88.1667,52.95,78,100,15.75,overcast clouds
+189,Ippy,CF,6.2679,21.2247,68.18,97,98,3.29,overcast clouds
+190,Brae,GB,60.3964,-1.353,55.31,91,100,12.71,overcast clouds
+191,Abha,SA,18.2164,42.5053,71.85,14,0,0.0,clear sky
+192,Kranjska Gora,SI,46.4839,13.7894,51.46,79,8,0.76,clear sky
+193,Hjelset,NO,62.7833,7.4833,63.3,100,90,0.0,light intensity drizzle
+194,Lamlash,GB,55.5336,-5.1296,63.48,92,100,6.2,moderate rain
+195,Maine-Soroa,NE,13.2114,12.0241,80.53,60,87,7.47,overcast clouds
+196,Cap Malheureux,MU,-19.9842,57.6142,71.47,74,5,10.0,light rain
+197,Storsteinnes,NO,69.2408,19.2344,45.25,95,100,4.16,overcast clouds
+198,Daru,PG,-9.0763,143.2092,77.52,84,100,21.59,overcast clouds
+199,Upernavik,GL,72.7868,-56.1549,29.46,76,100,11.45,overcast clouds
+200,Salisbury,GB,51.0693,-1.7957,63.64,96,75,5.75,fog
+201,Huarmey,PE,-10.0681,-78.1522,62.11,87,87,5.99,overcast clouds
+202,Kaeo,NZ,-35.1,173.7833,59.32,69,33,10.63,scattered clouds
+203,Blairmore,CA,49.6,-114.4353,63.52,43,13,9.98,few clouds
+204,Mount Isa,AU,-20.7333,139.5,83.97,10,0,14.97,clear sky
+205,Ponferrada,ES,42.5466,-6.5962,61.83,95,99,1.01,overcast clouds
+206,Arrecife,ES,28.963,-13.5477,73.47,83,29,8.05,scattered clouds
+207,Ahipara,NZ,-35.1667,173.1667,56.32,81,37,12.86,scattered clouds
+208,Cabo San Lucas,MX,22.8909,-109.9124,82.62,81,99,5.57,overcast clouds
+209,Limoux,FR,42.9167,2.1667,64.94,98,57,2.17,broken clouds
+210,Prachuap Khiri Khan,TH,12.2167,99.75,73.67,91,100,5.86,overcast clouds
+211,Iqaluit,CA,63.7506,-68.5145,39.56,63,43,8.21,scattered clouds
+212,Mecca,SA,21.4267,39.8261,87.3,65,19,8.95,few clouds
+213,Sumbawanga,TZ,-7.9667,31.6167,62.46,56,42,4.52,scattered clouds
+214,Dinghai,CN,26.2847,119.7936,81.66,78,98,11.54,overcast clouds
+215,Mount Gambier,AU,-37.8333,140.7667,67.91,45,61,28.77,broken clouds
+216,Forrest City,US,35.0081,-90.7898,67.84,53,0,6.8,clear sky
+217,Poum,NC,-20.2333,164.0167,71.24,58,97,7.7,overcast clouds
+218,San Patricio,US,28.017,-97.5169,84.04,59,88,5.44,overcast clouds
+219,Khatanga,RU,71.9667,102.5,62.15,58,92,9.08,overcast clouds
+220,Pisco,PE,-13.7,-76.2167,59.02,85,4,3.11,clear sky
+221,Bose,IT,45.4612,8.0137,67.24,80,59,4.43,broken clouds
+222,Nouadhibou,MR,20.931,-17.0347,70.7,89,19,18.54,few clouds
+223,Vilani,LV,56.5525,26.9245,56.05,83,94,8.97,overcast clouds
+224,Svitavy,CZ,49.7559,16.4683,56.01,74,2,7.25,clear sky
+225,Tazovskiy,RU,67.4667,78.7,47.19,61,73,3.91,broken clouds
+226,Leningradskiy,RU,69.3833,178.4167,31.73,97,100,4.76,light snow
+227,Kamenka,RU,51.3223,42.7678,56.03,53,52,12.15,broken clouds
+228,Sikonge,TZ,-5.6333,32.7667,70.18,50,48,9.4,scattered clouds
+229,Tiksi,RU,71.6872,128.8694,40.15,66,76,20.65,broken clouds
+230,Kudahuvadhoo,MV,2.6708,72.8944,82.2,66,40,3.29,scattered clouds
+231,Richards Bay,ZA,-28.783,32.0377,60.28,83,0,3.76,clear sky
+232,Sinegorye,RU,62.0788,150.477,37.27,57,100,10.85,light rain
+233,Tarbagatay,RU,51.4803,107.3602,58.53,39,1,3.51,clear sky
+234,Biltine,TD,14.5333,20.9167,81.91,62,100,4.25,overcast clouds
+235,Zhezkazgan,KZ,47.8043,67.7144,58.57,30,0,3.78,clear sky
+236,Timaru,NZ,-44.4,171.25,57.25,55,100,17.78,light rain
+237,Saint-Pierre,RE,-21.3393,55.4781,75.29,58,0,3.44,clear sky
+238,Urengoy,RU,65.9667,78.3667,48.88,57,98,2.59,overcast clouds
+239,Batagay-Alyta,RU,67.8006,130.4114,46.53,38,18,6.67,few clouds
+240,Airai,TL,-8.9266,125.4092,71.01,57,88,5.86,overcast clouds
+241,Atuona,PF,-9.8,-139.0333,78.1,76,0,17.67,clear sky
+242,Vanderhoof,CA,54.0166,-124.0198,51.78,96,100,5.37,light rain
+243,Ugoofaaru,MV,5.6667,73.0,82.49,71,47,5.88,scattered clouds
+244,Egvekinot,RU,66.3167,-179.1667,32.0,96,100,12.21,light snow
+245,Komsomolskiy,UZ,40.4272,71.7189,79.52,24,0,11.5,clear sky
+246,Yegros,PY,-26.45,-56.4,55.44,88,59,3.58,broken clouds
+247,Ulladulla,AU,-35.35,150.4667,73.87,43,57,12.66,broken clouds
+248,Adeje,ES,28.1227,-16.726,72.7,78,20,19.57,few clouds
+249,Yulara,AU,-25.2406,130.9889,82.24,7,3,5.75,clear sky
+250,Hithadhoo,MV,-0.6,73.0833,83.05,67,34,3.31,scattered clouds
+251,Tessalit,ML,20.1986,1.0114,86.45,29,8,4.79,clear sky
+252,Kungurtug,RU,50.5994,97.5228,67.33,35,95,2.51,overcast clouds
+253,Deputatskiy,RU,69.3,139.9,35.82,53,96,1.88,overcast clouds
+254,Saravan,AM,39.7196,45.6483,59.65,58,5,4.52,clear sky
+255,Cidreira,BR,-30.1811,-50.2056,63.12,91,100,12.39,overcast clouds
+256,Aksarka,RU,66.5606,67.7975,45.57,67,97,12.86,overcast clouds
+257,Cabedelo,BR,-6.9811,-34.8339,72.27,81,2,10.31,clear sky
+258,Pinheiro Machado,BR,-31.5783,-53.3811,50.07,91,85,14.41,overcast clouds
+259,Pacific Grove,US,36.6177,-121.9166,76.62,91,1,4.0,clear sky
+260,Tura,IN,25.5198,90.2201,85.48,68,97,2.24,overcast clouds
+261,Morehead,US,37.2711,-87.1764,60.84,95,75,0.0,broken clouds
+262,Mangotsfield,GB,51.4878,-2.504,63.86,93,90,1.01,overcast clouds
+263,Mehran,IR,33.1222,46.1646,92.16,15,0,16.49,clear sky
+264,Vilhena,BR,-12.7406,-60.1458,80.01,44,97,3.13,overcast clouds
+265,Ola,RU,59.5833,151.2833,48.74,48,67,6.89,broken clouds
+266,Smithers,CA,54.7804,-127.1743,52.43,81,100,3.31,overcast clouds
+267,Escarcega,MX,18.6089,-90.7454,74.46,96,96,2.44,overcast clouds
+268,Santiago Del Estero,AR,-27.7951,-64.2615,55.8,42,0,16.04,clear sky
+269,Winchester,GB,51.0651,-1.3187,63.64,67,75,2.3,haze
+270,Amuntai,ID,-2.4177,115.2494,91.11,51,73,2.26,broken clouds
+271,Katsuura,JP,35.1333,140.3,71.62,93,100,3.47,overcast clouds
+272,Dalvik,IS,65.9702,-18.5286,45.95,75,5,11.65,clear sky
+273,Rio Grande City,US,26.3798,-98.8203,81.9,51,12,9.82,few clouds
+274,Lipin Bor,RU,60.2622,37.9763,52.9,90,73,14.67,broken clouds
+275,Fortuna,US,40.5982,-124.1573,64.42,73,90,0.0,overcast clouds
+276,Vila Franca Do Campo,PT,37.7167,-25.4333,72.01,87,9,5.53,clear sky
+277,Saint-Leu,RE,-21.15,55.2833,74.68,64,9,2.17,clear sky
+278,Aklavik,CA,68.2191,-135.0107,52.38,68,96,8.19,overcast clouds
+279,Broome,US,42.2506,-75.833,65.19,88,99,3.71,overcast clouds
+280,Wanning,CN,18.8003,110.3967,86.63,69,37,6.55,scattered clouds
+281,Havre-Saint-Pierre,CA,50.2334,-63.5986,55.04,90,100,14.23,overcast clouds
+282,Kandrian,PG,-6.2167,149.55,80.83,76,100,13.47,overcast clouds
+283,Cayenne,GF,4.9333,-52.3333,81.09,84,0,0.0,clear sky
+284,Natal,BR,-5.795,-35.2094,70.45,94,20,3.44,few clouds
+285,Sinnamary,GF,5.3833,-52.95,78.35,88,35,9.1,scattered clouds
+286,Nemuro,JP,43.3236,145.575,63.03,93,97,11.48,overcast clouds
+287,Borovskoy,KZ,53.8,64.15,56.61,54,21,11.63,few clouds
+288,Lixourion,GR,38.2019,20.4314,66.2,77,20,0.0,few clouds
+289,Tombouctou,ML,20.0,-3.0,92.19,24,14,8.05,few clouds
+290,Faanui,PF,-16.4833,-151.75,78.76,72,14,10.92,few clouds
+291,Belawan,ID,3.7755,98.6832,86.29,77,100,4.7,overcast clouds
+292,Sept-Iles,CA,50.2001,-66.3821,58.05,96,100,5.01,overcast clouds
+293,Presidencia Roque Saenz Pena,AR,-26.7852,-60.4388,52.83,66,0,5.46,clear sky
+294,Markkleeberg,DE,51.2833,12.4,55.62,88,0,8.05,clear sky
+295,Isangel,VU,-19.55,169.2667,75.31,64,75,9.22,broken clouds
+296,Rockland,US,41.1668,-74.0496,75.45,88,39,1.01,light rain
+297,Ileza,RU,61.0533,43.9002,50.13,92,100,11.36,overcast clouds
+298,Constitucion,CL,-35.3333,-72.4167,49.35,77,4,6.44,clear sky
+299,Klaksvik,FO,62.2266,-6.589,47.32,66,92,4.18,overcast clouds
+300,San Cristobal,VE,7.7669,-72.225,64.78,92,22,2.57,few clouds
+301,Mahon,ES,39.8885,4.2658,73.96,100,75,3.44,broken clouds
+302,Tautira,PF,-17.7333,-149.15,78.82,80,65,19.64,light rain
+303,Banjar,ID,-8.19,114.9675,84.06,67,91,1.5,overcast clouds
+304,Lazaro Cardenas,MX,17.9583,-102.2,77.27,90,100,5.84,overcast clouds
+305,Banyo,CM,6.75,11.8167,63.77,95,97,2.84,overcast clouds
+306,Laguna,US,38.421,-121.4238,90.77,40,1,1.99,clear sky
+307,Gandu,BR,-13.7439,-39.4867,63.68,100,38,1.39,scattered clouds
+308,Ascension,US,30.2169,-90.9001,80.98,96,100,3.87,overcast clouds
+309,Ostrovnoy,RU,68.0531,39.5131,40.17,83,99,20.65,overcast clouds
+310,Pevek,RU,69.7008,170.3133,32.27,79,48,19.42,scattered clouds
+311,Mangan,IN,27.5167,88.5333,81.73,71,99,4.0,overcast clouds
+312,Kyzyl,RU,51.7,94.45,72.93,30,76,5.82,broken clouds
+313,Parsabad,IR,39.6482,47.9174,67.95,51,100,7.72,overcast clouds
+314,Prince Rupert,CA,54.3161,-130.3201,51.89,93,75,0.0,broken clouds
+315,Angoram,PG,-4.0625,144.0661,78.44,93,100,7.52,light rain
+316,Valley City,US,46.9233,-98.0032,54.12,87,1,0.0,clear sky
+317,Abu Samrah,SY,35.3029,37.1841,73.63,71,0,9.13,clear sky
+318,Arkhangelsk,RU,64.5401,40.5433,44.71,81,40,6.71,scattered clouds
+319,Kalmunai,LK,7.4167,81.8167,88.66,57,91,5.48,overcast clouds
+320,Nova Olimpia,BR,-14.7972,-57.2881,84.58,43,83,1.83,broken clouds
+321,Tuy Hoa,VN,13.0833,109.3,82.45,75,95,9.82,overcast clouds
+322,Hobyo,SO,5.3505,48.5268,80.06,76,68,21.3,broken clouds
+323,Ewa Beach,US,21.3156,-158.0072,80.55,62,1,6.91,clear sky
+324,Krasnyy Chikoy,RU,50.3643,108.7512,56.35,49,13,5.7,few clouds
+325,Hamilton,US,39.1834,-84.5333,65.35,83,1,0.0,clear sky
+326,Dudinka,RU,69.4058,86.1778,49.71,77,99,3.58,overcast clouds
+327,Moranbah,AU,-22.0016,148.0466,77.68,34,0,19.8,clear sky
+328,Ponta Do Sol,PT,32.6667,-17.1,74.03,79,5,1.3,clear sky
+329,Tiznit,MA,29.5833,-9.5,77.4,32,76,1.74,broken clouds
+330,Petropavlovsk-Kamchatskiy,RU,53.0452,158.6483,68.59,40,40,13.42,scattered clouds
+331,Safakulevo,RU,54.9901,62.5442,52.45,68,79,13.35,broken clouds
+332,Henties Bay,NA,-22.116,14.2845,53.85,92,0,4.12,clear sky
+333,Muros,ES,42.7762,-9.0603,67.23,93,100,4.88,overcast clouds
+334,Luwuk,ID,-0.9516,122.7875,76.28,94,94,8.14,light rain
+335,Outlook,CA,51.5001,-107.0513,65.28,36,81,12.35,broken clouds
+336,Jibuti,DJ,11.5,42.5,90.82,46,73,16.44,broken clouds
+337,Wajir,KE,1.7471,40.0573,76.59,66,28,18.05,scattered clouds
+338,Miraflores,MX,19.2167,-98.8083,57.85,92,99,1.7,light rain
+339,Eyl,SO,7.9803,49.8164,82.26,55,91,25.68,overcast clouds
+340,Gobabis,NA,-22.45,18.9667,61.74,15,64,15.77,broken clouds
+341,Russell,US,32.3502,-85.1999,73.11,93,100,3.18,overcast clouds
+342,Bubaque,GW,11.2833,-15.8333,80.08,80,74,5.68,broken clouds
+343,Cam Ranh,VN,11.9214,109.1591,93.16,52,20,9.22,few clouds
+344,Dogondoutchi,NE,13.6393,4.0287,78.08,72,80,5.57,broken clouds
+345,Santa Maria,BR,-29.6842,-53.8069,52.43,89,25,9.6,scattered clouds
+346,Kasama,ZM,-10.2129,31.1808,64.89,52,5,7.0,clear sky
+347,Sena Madureira,BR,-9.0656,-68.6569,75.06,74,5,1.79,clear sky
+348,Visnes,NO,59.3556,5.2242,61.57,94,90,6.91,mist
+349,Mudgee,AU,-32.5943,149.5871,69.85,32,68,11.5,broken clouds
+350,Camacha,PT,33.0833,-16.3333,70.56,83,20,5.75,few clouds
+351,Xining,CN,36.6167,101.7667,67.57,35,35,3.33,scattered clouds
+352,Sao Filipe,CV,14.8961,-24.4956,77.47,81,35,0.87,scattered clouds
+353,Plouzane,FR,48.3833,-4.6167,64.49,97,90,16.11,overcast clouds
+354,Puerto Santander,CO,8.3636,-72.4063,73.53,94,60,2.37,broken clouds
+355,Havoysund,NO,70.9963,24.6622,43.03,80,100,17.69,overcast clouds
+356,Pesaro,IT,43.9036,12.8903,67.1,64,26,5.06,scattered clouds
+357,Agirish,RU,61.9247,63.0231,44.96,64,90,9.35,overcast clouds
+358,Colac,AU,-38.3333,143.5833,73.42,51,100,16.31,overcast clouds
+359,Udachnyy,RU,66.4167,112.4,63.5,42,99,11.36,overcast clouds
+360,Dera Bugti,PK,29.0307,69.151,94.32,42,7,8.57,clear sky
+361,Wewak,PG,-3.5534,143.6268,79.61,90,98,21.16,overcast clouds
+362,Victor Harbor,AU,-35.5667,138.6167,78.46,39,20,18.25,few clouds
+363,Mao,ES,39.8885,4.2658,73.96,100,75,3.44,broken clouds
+364,Dondo,MZ,-19.6094,34.7431,70.97,83,14,3.27,few clouds
+365,Severnoye,RU,56.3491,78.3619,51.28,58,43,14.14,scattered clouds
+366,Northam,GB,51.0333,-4.2167,65.3,96,98,6.58,overcast clouds
+367,Riyadh,SA,24.6877,46.7219,91.54,15,0,14.97,clear sky
+368,Gat,IL,31.61,34.7642,85.41,45,0,6.71,clear sky
+369,Oistins,BB,13.0667,-59.5333,82.49,78,20,16.11,few clouds
+370,Havelock,US,34.8791,-76.9013,80.55,92,75,1.01,thunderstorm
+371,Sassandra,CI,4.95,-6.0833,75.43,92,68,6.42,broken clouds
+372,Deniliquin,AU,-35.5333,144.9667,77.0,25,68,16.37,broken clouds
+373,Plastun,RU,44.7561,136.2939,73.96,58,9,8.37,clear sky
+374,Caravelas,BR,-17.7125,-39.2481,68.76,94,25,4.27,scattered clouds
+375,Rizhao,CN,35.4275,119.4553,79.54,75,80,10.78,broken clouds
+376,Bataipora,BR,-22.2953,-53.2711,69.06,88,99,9.55,overcast clouds
+377,Lagoa,PT,39.05,-27.9833,70.95,86,66,11.92,broken clouds
+378,Kumbo,CM,6.2,10.6667,57.81,89,100,3.27,overcast clouds
+379,Pokhvistnevo,RU,53.6524,52.1274,54.23,56,99,16.6,light rain
+380,Mackay,AU,-21.15,149.2,74.05,62,80,19.22,broken clouds
+381,Meulaboh,ID,4.1363,96.1285,84.07,63,99,3.06,overcast clouds
+382,Kjopsvik,NO,68.097,16.3742,50.16,91,100,3.83,overcast clouds
+383,North Bend,US,43.4065,-124.2243,57.92,96,90,0.0,fog
+384,Zhob,PK,31.3411,69.4481,82.9,50,0,0.81,clear sky
+385,Jiangkou,CN,25.4872,119.1986,87.73,64,86,15.23,overcast clouds
+386,Rio Gallegos,AR,-51.6226,-69.2181,42.85,87,40,3.44,scattered clouds
+387,Sao Joao Da Barra,BR,-21.6403,-41.0511,69.69,87,45,17.67,scattered clouds
+388,Faya,SA,18.3851,42.4509,72.12,17,29,6.2,scattered clouds
+389,Rocha,UY,-34.4833,-54.3333,54.45,88,92,12.66,overcast clouds
+390,Sobradinho,BR,-12.8333,-39.1,65.05,97,7,1.21,clear sky
+391,Kavieng,PG,-2.5744,150.7967,82.87,76,55,17.6,light rain
+392,Mattru,SL,7.6244,-11.8332,73.71,98,100,2.04,moderate rain
+393,Rehoboth,NA,-23.3167,17.0833,57.22,20,2,3.42,clear sky
+394,Kuryk,KZ,43.2,51.65,64.92,26,100,14.12,overcast clouds
+395,Yamada,JP,39.4667,141.95,78.57,69,11,12.8,few clouds
+396,Camacupa,AO,-12.0167,17.4833,63.93,43,3,2.08,clear sky
+397,San Ignacio,BZ,17.1561,-89.0714,73.71,99,40,1.07,scattered clouds
+398,Camabatela,AO,-8.1881,15.375,64.56,92,100,3.94,light rain
+399,Bandar-E Lengeh,IR,26.5579,54.8807,92.07,64,87,9.22,overcast clouds
+400,Hokitika,NZ,-42.7167,170.9667,53.47,87,74,18.16,broken clouds
+401,Jamai,IN,22.2,78.5833,73.56,91,100,6.31,overcast clouds
+402,Baykit,RU,61.67,96.37,50.47,81,100,8.99,overcast clouds
+403,La Joya,MX,18.6667,-99.4667,70.39,96,100,4.79,overcast clouds
+404,Dryden,CA,49.7833,-92.7503,52.48,98,59,3.8,broken clouds
+405,Jumla,NP,29.2747,82.1838,68.45,78,90,4.99,overcast clouds
+406,Bend,US,44.0582,-121.3153,71.46,42,1,6.91,clear sky
+407,Luanda,AO,-8.8368,13.2343,71.6,88,75,8.05,broken clouds
+408,Lompoc,US,34.6391,-120.4579,70.11,96,90,0.0,mist
+409,Morondava,MG,-20.2833,44.2833,73.27,42,0,3.74,clear sky
+410,Bud,US,39.447,-86.1758,66.22,75,17,8.77,few clouds
+411,Mahajanga,MG,-15.7167,46.3167,77.02,44,20,13.8,few clouds
+412,Kot Diji,PK,27.3427,68.7083,89.62,37,69,8.72,broken clouds
+413,Zhangjiakou,CN,40.81,114.8794,77.38,36,7,8.28,clear sky
+414,Mabaruma,GY,8.2,-59.7833,73.27,98,100,2.26,overcast clouds
+415,Alice Springs,AU,-23.7,133.8833,80.15,8,0,8.05,clear sky
+416,Darovskoy,RU,58.77,47.9564,54.45,92,100,11.77,overcast clouds
+417,San Luis,AR,-33.295,-66.3356,39.94,88,4,3.87,clear sky
+418,Thap Khlo,TH,16.16,100.5966,76.98,91,100,5.26,overcast clouds
+419,Talara,PE,-4.5772,-81.2719,64.69,82,96,18.32,overcast clouds
+420,Waingapu,ID,-9.6567,120.2641,86.58,56,59,17.25,broken clouds
+421,Rock Sound,BS,24.9,-76.2,83.16,70,4,3.0,clear sky
+422,Vestmannaeyjar,IS,63.4427,-20.2734,52.23,66,83,3.47,broken clouds
+423,Tilichiki,RU,60.4667,166.1,42.06,42,100,17.96,overcast clouds
+424,Izhma,RU,65.0083,53.9113,45.7,98,100,8.5,overcast clouds
+425,Christchurch,NZ,-43.5333,172.6333,62.8,36,77,17.27,broken clouds
+426,Selikhino,RU,50.3672,137.4996,72.18,58,39,6.53,scattered clouds
+427,Urusha,RU,54.05,122.9,52.21,94,100,0.69,light rain
+428,Athabasca,CA,54.7169,-113.2854,62.2,52,100,5.32,overcast clouds
+429,Indian Head,US,38.6001,-77.1622,75.88,87,75,1.01,broken clouds
+430,Honiara,SB,-9.4333,159.95,85.01,68,73,12.12,light rain
+431,Nelson Bay,AU,-32.7167,152.15,83.28,32,62,7.78,broken clouds
+432,Belmonte,BR,-15.8631,-38.8828,73.9,88,19,3.36,few clouds
+433,Mgandu,TZ,-5.95,34.1333,63.37,66,8,11.21,clear sky
+434,Lima,PE,-12.0432,-77.0282,58.89,85,90,6.91,overcast clouds
+435,Asyut,EG,27.181,31.1837,86.32,29,0,9.8,clear sky
+436,Akyab,MM,20.15,92.9,85.6,69,60,1.63,broken clouds
+437,Charters Towers,AU,-20.1,146.2667,79.14,30,6,17.27,clear sky
+438,Ambulu,ID,-8.345,113.6058,86.5,57,100,13.85,overcast clouds
+439,La Macarena,CO,2.1837,-73.7849,70.61,97,79,1.12,broken clouds
+440,Loughrea,IE,53.1969,-8.5669,61.65,99,100,4.18,overcast clouds
+441,Mayo,US,38.8876,-76.5119,75.97,86,40,1.01,scattered clouds
+442,Coruripe,BR,-10.1256,-36.1756,74.77,71,94,6.04,overcast clouds
+443,Payo,ID,-3.7508,103.6372,91.99,45,26,2.68,scattered clouds
+444,Afzalpur,IN,17.2,76.35,80.31,67,98,19.35,overcast clouds
+445,Salalah,OM,17.0151,54.0924,78.89,100,90,8.05,overcast clouds
+446,Puerto Leguizamo,CO,-0.1934,-74.7819,70.57,99,41,2.37,scattered clouds
+447,Buala,SB,-8.145,159.5921,81.99,77,100,13.73,light rain
+448,Acapulco,MX,16.8634,-99.8901,78.08,88,100,3.4,overcast clouds
+449,Galle,LK,6.0367,80.217,83.55,75,31,13.62,scattered clouds
+450,Kourou,GF,5.1552,-52.6478,81.1,87,43,7.0,scattered clouds
+451,Taoudenni,ML,22.6783,-3.9836,94.69,13,0,15.84,clear sky
+452,Santander,ES,43.4647,-3.8044,68.31,96,75,3.0,broken clouds
+453,Zelenoborskiy,RU,66.845,32.3622,45.37,88,95,10.89,overcast clouds
+454,Prainha,BR,-1.8,-53.48,75.43,85,45,3.94,scattered clouds
+455,Kommunisticheskiy,RU,61.6789,64.4819,46.36,60,70,8.16,broken clouds
+456,Champasak,LA,14.75,106.0,73.2,98,100,3.83,overcast clouds
+457,Hofn,IS,64.2539,-15.2082,50.11,52,9,8.01,clear sky
+458,Yulin,CN,22.6333,110.15,90.99,58,35,0.43,light rain
+459,Vengurla,IN,15.8667,73.6333,80.67,83,55,14.32,broken clouds
+460,Yerbogachen,RU,61.2767,108.0108,58.03,73,97,5.75,overcast clouds
+461,Beyneu,KZ,45.3167,55.2,63.86,21,2,6.44,clear sky
+462,Poddorye,RU,57.4695,31.1156,58.59,87,100,9.24,overcast clouds
+463,Coahuayana,MX,18.7333,-103.6833,76.24,93,100,2.64,overcast clouds
+464,Maracaibo,VE,10.6317,-71.6406,80.65,85,41,9.19,scattered clouds
+465,Padang,ID,-0.9492,100.3543,86.05,70,31,5.1,scattered clouds
+466,Thinadhoo,MV,0.5333,72.9333,82.47,68,80,2.1,broken clouds
+467,Tocache,PE,-8.1842,-76.5125,70.09,97,60,0.6,broken clouds
+468,Touros,BR,-5.1989,-35.4608,70.7,86,6,11.77,clear sky
+469,Pedasi,PA,7.5333,-80.0333,79.23,84,99,7.02,overcast clouds
+470,Kirakira,SB,-10.4544,161.9205,80.92,78,88,14.38,overcast clouds
+471,Port Hedland,AU,-20.3167,118.5667,89.65,17,16,14.97,few clouds
+472,Gladstone,AU,-23.85,151.25,75.13,43,4,18.41,light rain
+473,Balkhash,KZ,46.844,74.9804,59.61,29,0,20.13,clear sky
+474,Show Low,US,34.2542,-110.0298,72.72,54,1,6.91,clear sky
+475,Qaqortoq,GL,60.7167,-46.0333,41.5,94,30,3.38,scattered clouds
+476,Manokwari,ID,-0.8667,134.0833,83.25,73,96,11.23,overcast clouds
+477,Kabanjahe,ID,3.1001,98.4908,72.36,75,100,3.06,overcast clouds
+478,College,US,64.8569,-147.8028,56.28,77,75,0.0,broken clouds
+479,Lebrija,ES,36.9208,-6.0753,70.59,83,0,2.3,clear sky
+480,Zalegoshch,RU,52.9008,36.8869,56.43,63,100,12.97,light rain
+481,Kentau,KZ,43.5206,68.5094,70.66,29,0,9.86,clear sky
+482,Boyolangu,ID,-8.1181,111.8935,84.18,59,91,13.51,overcast clouds
+483,Coihaique,CL,-45.5752,-72.0662,42.75,93,75,4.61,light rain
+484,Snezhnogorsk,RU,69.1933,33.2531,40.78,73,87,17.83,overcast clouds
+485,Nueve De Julio,AR,-35.4444,-60.8831,50.79,89,100,29.12,light rain
+486,Zwedru,LR,6.0667,-8.1281,73.51,98,100,2.19,overcast clouds
+487,Batemans Bay,AU,-35.7167,150.1833,75.9,34,66,9.6,broken clouds
+488,Claresholm,CA,50.0333,-113.5852,69.66,31,3,14.72,clear sky
+489,Chandbali,IN,20.7833,86.7667,87.75,67,100,4.52,overcast clouds
+490,Baoqing,CN,46.3317,132.2111,72.52,67,96,4.03,overcast clouds
+491,Vardo,NO,70.3705,31.1107,39.4,88,96,19.04,overcast clouds
+492,Araouane,ML,18.9048,-3.5265,90.23,37,43,9.01,scattered clouds
+493,Strezhevoy,RU,60.7333,77.5889,46.38,60,100,10.92,overcast clouds
+494,Khani,GE,41.9563,42.9566,58.57,67,5,2.68,clear sky
+495,Anadyr,RU,64.75,177.4833,41.5,87,75,15.66,light intensity drizzle
+496,Suratgarh,IN,29.3167,73.9,92.01,49,0,10.74,clear sky
+497,Mosquera,CO,4.7059,-74.2302,53.69,71,40,4.61,scattered clouds
+498,San Quintin,MX,30.4833,-115.95,71.26,84,86,7.47,overcast clouds
+499,Ginda,IN,30.6945,78.4932,64.69,96,100,2.13,overcast clouds
+500,Two Rivers,US,44.1539,-87.5693,58.06,91,1,1.01,clear sky
+501,Eureka,US,40.8021,-124.1637,54.57,93,60,3.89,broken clouds
+502,Mogadishu,SO,2.0371,45.3438,78.66,82,99,18.81,overcast clouds
+503,Waddan,LY,29.1614,16.139,72.73,68,0,5.21,clear sky
+504,Kokkola,FI,63.8385,23.1307,53.92,86,0,4.61,clear sky
+505,Moree,AU,-29.4667,149.85,75.22,31,1,5.75,clear sky
+506,Vanimo,PG,-2.6741,141.3028,83.93,76,63,11.95,broken clouds
+507,Niquelandia,BR,-14.4739,-48.4597,82.67,30,98,3.87,overcast clouds
+508,Amapa,BR,1.0,-52.0,70.66,99,85,1.61,overcast clouds
+509,Hobbs,US,32.7026,-103.136,78.06,64,0,5.01,clear sky
+510,Clarence Town,AU,-32.5833,151.7833,83.14,25,78,11.77,broken clouds
+511,Machinga,MW,-15.1685,35.3,67.68,72,7,3.42,clear sky
+512,Viedma,AR,-40.8135,-62.9967,44.38,95,56,5.01,broken clouds
+513,Bom Jesus,BR,-9.0744,-44.3586,71.76,41,30,2.8,scattered clouds
+514,Ust-Barguzin,RU,53.45,108.9833,52.7,61,91,2.62,overcast clouds
+515,Verkhnevilyuysk,RU,63.4453,120.3167,65.41,52,20,4.36,few clouds
+516,Waspan,NI,14.7419,-83.9717,74.68,98,44,2.46,scattered clouds
+517,Guanica,PR,17.9716,-66.908,80.06,87,51,1.01,broken clouds
+518,Bugiri,UG,0.5714,33.7417,68.16,81,91,3.42,overcast clouds
+519,Katobu,ID,-4.9408,122.5276,80.13,85,100,8.46,light rain
+520,Bhadrapur,NP,26.544,88.0944,88.0,67,70,5.39,broken clouds
+521,Mitsamiouli,KM,-11.3847,43.2844,76.62,76,24,9.84,light rain
+522,Calama,CL,-22.4667,-68.9333,47.95,14,4,5.97,clear sky
+523,Lorengau,PG,-2.0226,147.2712,79.12,87,100,15.55,overcast clouds
+524,Mbandaka,CD,0.0487,18.2603,68.83,94,25,2.77,scattered clouds
+525,Alvorada,BR,-12.48,-49.1247,83.37,26,51,4.47,broken clouds
+526,Pangnirtung,CA,66.1451,-65.7125,35.56,87,2,10.51,clear sky
+527,Ribeira Brava,PT,32.65,-17.0667,74.03,80,5,1.57,clear sky
+528,Leskolovo,RU,60.2634,30.4546,58.12,94,67,7.38,broken clouds
+529,Biak,ID,-0.9131,122.8766,74.71,92,95,11.1,light rain
+530,Cabot,US,34.9745,-92.0165,70.86,65,1,0.0,clear sky
+531,Polunochnoye,RU,60.8697,60.4153,46.71,78,98,8.32,overcast clouds
+532,Alofi,NU,-19.0595,-169.9187,78.4,76,43,3.18,scattered clouds
+533,Codrington,AU,-38.2667,141.9667,66.25,57,100,18.3,overcast clouds
+534,Samarai,PG,-10.6167,150.6667,78.53,83,100,19.48,light rain
+535,Afikpo,NG,5.8931,7.9374,73.47,96,99,1.7,overcast clouds
+536,Archidona,ES,37.0965,-4.3887,66.76,88,55,4.38,broken clouds
+537,Clearwater,US,27.9659,-82.8001,83.91,78,1,7.0,clear sky
+538,Igrim,RU,63.1906,64.4162,46.27,62,36,8.3,scattered clouds
+539,Amahai,ID,-3.3333,128.9167,82.0,81,84,10.96,broken clouds
+540,Flin Flon,CA,54.7682,-101.865,52.43,76,63,4.72,broken clouds
+541,Nikolayevsk-Na-Amure,RU,53.1406,140.73,66.9,52,100,5.7,overcast clouds
+542,Loa Janan,ID,-0.583,117.095,80.1,86,100,1.52,overcast clouds
+543,Ormara,PK,25.2088,64.6357,80.76,87,95,13.35,overcast clouds
+544,Arona,ES,28.0996,-16.681,68.52,78,20,19.57,few clouds
+545,Dothan,US,31.2232,-85.3905,72.97,97,90,0.0,overcast clouds
+546,Ongandjera,NA,-17.8833,15.0667,64.31,24,5,10.13,clear sky
+547,Tomatlan,MX,19.9333,-105.25,72.59,94,100,3.62,overcast clouds
+548,Jalu,LY,29.0331,21.5482,73.18,63,0,6.33,clear sky
+549,Baikunthpur,IN,23.25,82.55,82.0,72,60,8.3,broken clouds
+550,Manavalakurichi,IN,8.1333,77.3,84.29,63,54,15.82,broken clouds
+551,Semnan,IR,35.5729,53.3971,77.72,37,0,1.19,clear sky
+552,Spirit River,CA,55.7833,-118.8361,54.75,78,100,4.36,overcast clouds
+553,Puro,PH,12.4841,123.3827,84.56,73,100,13.87,overcast clouds
+554,Massakory,TD,12.996,15.7293,79.47,70,93,6.38,overcast clouds
+555,Tingi,TZ,-11.3,35.0333,63.84,64,10,6.6,clear sky
+556,Shelburne,CA,44.0787,-80.2041,57.67,94,39,9.75,scattered clouds
+557,Buraydah,SA,26.326,43.975,88.52,16,7,2.86,clear sky
+558,Skegness,GB,53.1436,0.3363,64.58,79,97,5.44,overcast clouds
+559,Auki,SB,-8.7676,160.7034,82.4,72,83,8.5,broken clouds
+560,Fort Nelson,CA,58.8053,-122.7002,50.41,89,100,2.84,light rain
+561,Santa Isabel Do Rio Negro,BR,-0.4139,-65.0192,71.89,98,100,1.36,overcast clouds
+562,Port Augusta,AU,-32.5,137.7667,86.14,9,7,17.47,clear sky
+563,Springbok,ZA,-29.6643,17.8865,54.12,17,2,11.52,clear sky
+564,Erdenet,MN,49.0333,104.0833,54.09,63,25,4.14,scattered clouds
+565,Kutum,SD,14.2,24.6667,72.12,75,100,3.78,overcast clouds
+566,Wynyard,AU,-41.0,145.7167,57.67,75,98,17.65,light rain
+567,Ucluelet,CA,48.9329,-125.5528,66.09,95,100,4.72,light rain
+568,Oktyabrskoye,RU,43.0645,44.7417,48.34,100,74,0.0,fog
+569,Macas,EC,-2.3167,-78.1167,63.99,97,26,3.47,light rain
+570,Olafsvik,IS,64.8945,-23.7142,50.11,81,15,13.02,few clouds
+571,Montes Altos,BR,-5.8333,-47.0667,75.61,64,48,3.15,scattered clouds
+572,Luganville,VU,-15.5333,167.1667,76.3,76,98,15.21,overcast clouds
+573,Portland,US,45.5234,-122.6762,76.08,65,20,1.01,few clouds
+574,Slave Lake,CA,55.2834,-114.769,60.98,65,99,5.23,overcast clouds
+575,Wad Madani,SD,14.4012,33.5199,78.49,68,88,14.0,overcast clouds
+576,Samana,DO,19.2056,-69.3369,77.5,91,16,4.47,few clouds
+577,Ngunguru,NZ,-35.6167,174.5,59.16,67,38,12.5,scattered clouds
+578,Sembe,CG,1.6481,14.5806,68.47,96,53,1.41,broken clouds
+579,Esfahan,IR,32.6572,51.6776,67.64,21,0,5.41,clear sky
+580,Kununurra,AU,-15.7667,128.7333,93.18,18,5,14.97,clear sky
+581,Ust-Nera,RU,64.5667,143.2,43.36,36,18,5.99,few clouds
+582,Sete,FR,43.4018,3.6966,71.64,87,100,8.81,light rain
+583,Channel-Port Aux Basques,CA,47.5702,-59.1367,60.31,82,18,7.76,few clouds
+584,Tocopilla,CL,-22.092,-70.1979,58.78,75,53,1.66,broken clouds
+585,Nadvoitsy,RU,63.8667,34.3167,48.2,85,99,12.55,overcast clouds
+586,Bayir,TR,37.2687,28.2167,61.63,70,0,1.97,clear sky
+587,Tikhvin,RU,59.6451,33.5294,56.52,92,100,8.81,overcast clouds
+588,Susanville,US,40.4163,-120.653,66.81,34,1,3.0,clear sky
+589,Killybegs,IE,54.6333,-8.45,62.46,98,100,5.17,overcast clouds
+590,Roma,US,43.2128,-75.4557,65.12,95,40,0.0,scattered clouds
+591,Half Moon Bay,US,37.4636,-122.4286,79.9,81,1,0.0,clear sky
+592,Yaan,NG,7.3833,8.5667,72.41,96,99,3.4,overcast clouds
+593,Monrovia,LR,6.3005,-10.7969,77.38,89,100,6.24,light rain
+594,Petatlan,MX,17.5167,-101.2667,75.6,94,92,3.11,overcast clouds
+595,Bonthe,SL,7.5264,-12.505,76.6,92,100,4.81,light rain
+596,Vangaindrano,MG,-23.35,47.6,68.81,77,0,6.29,clear sky
+597,Kabo,CF,7.6994,18.629,69.89,96,94,1.97,overcast clouds
+598,Dire,ML,12.2833,-10.9667,75.07,94,99,1.59,overcast clouds
+599,Antofagasta,CL,-23.65,-70.4,55.47,84,25,0.69,scattered clouds
+600,Methoni,GR,36.8197,21.7049,69.22,72,47,5.68,scattered clouds
+601,Qurayyat,SA,31.3318,37.3428,76.44,32,0,10.83,clear sky
+602,San Juan,AR,-31.5375,-68.5364,49.01,56,0,12.35,clear sky
+603,Anzio,IT,41.4853,12.6179,68.97,82,2,6.2,clear sky
+604,Dandong,CN,40.1292,124.3947,76.21,67,42,12.35,scattered clouds
+605,Yairipok,IN,24.6667,94.0667,85.17,61,32,1.66,scattered clouds
+606,North Charleston,US,32.8886,-80.0075,74.93,96,75,4.61,broken clouds
+607,Kachiry,KZ,53.0675,76.1036,57.51,42,12,18.05,few clouds
+608,Blackwater,AU,-23.5833,148.8833,80.1,25,1,12.86,clear sky
+609,Shubarshi,KZ,48.5872,57.1869,61.59,33,100,8.95,overcast clouds
+610,Grand Gaube,MU,-20.0064,57.6608,72.37,74,6,5.99,clear sky
+611,Fairview,US,40.8126,-73.999,76.23,79,75,11.99,thunderstorm
+612,Belyy Yar,RU,53.6039,91.3903,62.49,82,40,2.24,light intensity shower rain
+613,Cooma,AU,-36.2333,149.1333,60.57,33,60,19.57,broken clouds
+614,Worland,US,44.0169,-107.9554,80.6,39,1,6.91,clear sky
+615,Bethanien,NA,-26.502,17.1583,53.47,19,0,4.32,clear sky
+616,Marsa Matruh,EG,31.3525,27.2453,76.69,74,0,7.14,clear sky
+617,Karatsu,JP,33.4425,129.9697,85.89,65,37,11.83,scattered clouds
+618,Mount Pleasant,US,32.7941,-79.8626,75.0,97,20,8.01,mist
+619,Pasighat,IN,28.0667,95.3333,89.67,58,92,3.4,overcast clouds
+620,Goulburn,AU,-34.75,149.7167,62.58,71,86,19.24,overcast clouds
+621,Andenes,NO,69.3143,16.1194,46.38,81,75,12.66,broken clouds
+622,Esso,RU,55.9333,158.7,41.23,63,50,9.42,scattered clouds
+623,Chapais,CA,49.7834,-74.8492,50.83,97,43,5.66,scattered clouds
+624,Uige,AO,-7.6087,15.0613,67.08,97,64,2.46,broken clouds
+625,Ouahigouya,BF,13.5828,-2.4216,76.17,75,100,4.14,overcast clouds
+626,Kawalu,ID,-7.3817,108.2082,84.45,50,96,7.29,overcast clouds
+627,Varkkallai,IN,8.7341,76.7067,83.98,70,56,8.84,broken clouds
+628,Bonfim,BR,3.0833,-59.95,77.22,75,56,6.06,broken clouds
+629,Dombarovskiy,RU,50.7587,59.5386,60.21,43,97,13.22,overcast clouds
+630,Bayanday,RU,53.0661,105.5139,59.61,31,1,5.44,clear sky
+631,Serafimovich,RU,49.5786,42.736,59.92,38,2,9.28,clear sky
+632,Vila,PT,42.0304,-8.1588,56.28,94,100,3.58,overcast clouds
+633,Galesong,ID,-5.3166,119.3661,87.82,61,65,6.04,broken clouds
+634,Kaliganj,BD,23.4095,89.1402,87.53,69,87,4.61,overcast clouds
+635,Santa Ana,US,33.7456,-117.8678,88.99,85,75,3.44,mist
+636,Huilong,CN,31.8111,121.655,84.04,79,89,12.93,overcast clouds
+637,Kenai,US,60.5544,-151.2583,53.02,93,90,0.0,light rain
+638,Barcelos,PT,41.5388,-8.6151,66.34,96,98,3.56,overcast clouds
+639,Koslan,RU,63.4564,48.8989,48.47,95,100,9.95,overcast clouds
+640,Atasu,KZ,48.6814,71.6433,54.27,35,0,4.59,clear sky
+641,Goundi,TD,9.3627,17.366,71.46,96,79,3.2,broken clouds
+642,Skjervoy,NO,70.0311,20.9714,48.2,91,100,10.47,light rain
+643,Dospat,BG,41.65,24.1667,44.98,83,94,4.23,overcast clouds
+644,Watsa,CD,3.0372,29.5355,65.07,95,96,1.36,overcast clouds
+645,Port Keats,AU,-14.25,129.55,92.77,28,9,1.59,clear sky
+646,Bayevo,RU,53.2833,80.7667,59.65,30,10,18.57,clear sky
+647,Beringovskiy,RU,63.05,179.3167,42.6,67,85,7.54,overcast clouds
+648,Svetlogorsk,BY,52.6333,29.7333,53.15,76,13,5.21,few clouds
+649,Lanzhou,CN,36.0564,103.7922,78.28,28,6,1.77,clear sky
+650,Golden,US,39.7555,-105.2211,70.5,42,58,4.99,broken clouds
+651,High Rock,BS,26.6208,-78.2833,77.02,70,4,8.25,clear sky
+652,Mechetinskaya,RU,46.7713,40.456,60.6,58,0,6.24,clear sky
+653,Kuah,MY,6.3265,99.8432,77.23,84,100,1.7,overcast clouds
+654,Skibbereen,IE,51.55,-9.2667,60.6,98,100,1.25,overcast clouds
+655,Palmer,US,42.1584,-72.3287,74.01,70,90,3.44,overcast clouds
+656,La Tuque,CA,47.4334,-72.7824,58.95,97,93,7.61,moderate rain
+657,Takoradi,GH,4.8845,-1.7554,75.34,94,29,5.5,scattered clouds
+658,Mocuba,MZ,-16.8392,36.9856,72.54,78,0,1.86,clear sky
+659,Aksu,CN,41.1231,80.2644,86.25,12,0,4.83,clear sky
+660,Jiujiang,CN,29.7333,115.9833,89.02,59,15,4.54,few clouds
+661,Praia Da Vitoria,PT,38.7333,-27.0667,71.76,92,61,5.77,broken clouds
+662,Safaga,EG,26.7292,33.9365,88.41,43,0,12.33,clear sky
+663,Solnechnyy,RU,50.7214,136.6319,67.86,70,46,1.72,scattered clouds
+664,Marzuq,YE,14.4,46.4667,84.7,40,87,8.93,overcast clouds
+665,Beruwala,LK,6.4788,79.9828,84.15,71,16,11.01,few clouds
+666,Boguchany,RU,58.3814,97.4531,58.42,44,47,11.21,scattered clouds
+667,Brownsville,US,25.9018,-97.4975,79.09,78,1,0.0,clear sky
+668,Emerald,AU,-23.5333,148.1667,79.75,27,0,15.43,clear sky
+669,Nauta,PE,-4.5061,-73.5757,74.8,87,62,1.14,broken clouds
+670,Rolla,US,37.9514,-91.7713,64.24,78,1,0.0,clear sky
+671,Toora-Khem,RU,52.4675,96.11,64.53,45,100,4.5,overcast clouds
+672,Harper,LR,4.375,-7.7169,77.83,88,99,8.72,light rain
+673,Rumonge,BI,-3.9736,29.4386,77.83,53,39,3.31,scattered clouds
+674,Ahuimanu,US,21.4447,-157.8378,80.31,70,20,12.66,few clouds
+675,Camana,PE,-16.6228,-72.7111,59.76,86,92,8.68,overcast clouds
+676,Elko,US,41.0002,-115.5012,74.64,8,0,8.99,clear sky
+677,Kiama,AU,-34.6833,150.8667,78.39,29,61,12.17,broken clouds
+678,Paita,PE,-5.0892,-81.1144,63.64,84,77,13.33,broken clouds
